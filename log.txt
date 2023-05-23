@@ -1,0 +1,16 @@
+myseq0.fna:50000
+myseq100000.fna:50000
+myseq150000.fna:27658
+myseq50000.fna:50000
+myseq0.fna.txt:88242
+myseq100000.fna.txt:88242
+myseq150000.fna.txt:88242
+myseq50000.fna.txt:88242
+myseq0.fna:50000
+myseq100000.fna:50000
+myseq150000.fna:27658
+myseq50000.fna:50000
+myseq0.fna.txt:44121
+myseq100000.fna.txt:44121
+myseq150000.fna.txt:44121
+myseq50000.fna.txt:44121
